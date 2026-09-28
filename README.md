@@ -55,7 +55,7 @@ Seller tier distribution:
 | Warn/Remove | 14.96% |
 | Not Rated (low order volume) | 42.04% |
 
-> "Warn/Remove sellers account for X% of orders but Y% of 1-star reviews."
+> "Flagged 463 high-risk sellers (14.96 \% of 3K sellers) representing 2.51M in high-risk revenue exposure (18.45 \% of total revenue), enabling targeted seller review and risk prioritization."
 
 ---
 
